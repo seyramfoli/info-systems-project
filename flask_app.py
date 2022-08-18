@@ -1,4 +1,4 @@
-__author__ = "Joshua Akangah"
+__author__ = "Lincoln Foli-Washington"
 
 from flask import Flask, render_template, url_for, redirect, request
 import datetime

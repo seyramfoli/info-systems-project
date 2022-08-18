@@ -1,4 +1,4 @@
-__author__ = "Joshua Akangah"
+__author__ = "Lincoln Foli-Washington"
 
 import sqlite3
 import datetime
